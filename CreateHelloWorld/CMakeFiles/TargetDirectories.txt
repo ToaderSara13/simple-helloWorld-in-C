@@ -1,0 +1,3 @@
+/home/student/Task_Linux_HelloWorld/CreateHelloWorld/CMakeFiles/app_cmake.dir
+/home/student/Task_Linux_HelloWorld/CreateHelloWorld/CMakeFiles/edit_cache.dir
+/home/student/Task_Linux_HelloWorld/CreateHelloWorld/CMakeFiles/rebuild_cache.dir
