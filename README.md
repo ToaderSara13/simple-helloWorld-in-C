@@ -2,9 +2,9 @@
 
 Acest proiect este realizat in limbajul **C**, folosind **GTK3** pentru interfata grafica si **Cairo** pentru desenare.
 
-Aplicatia deschide o fereastra cu fundal **Dark Mode** si afiseaza mesajul **„Hello World!”** intr-o culoare **Neon Cyan**, pentru un aspect mai modern.
+Aplicatia deschide o fereastra cu fundal **Dark Mode** si afiseaza mesajul **„Hello World!”** intr-o culoare **Neon Cyan**.
 
-Textul ramane mereu perfect centrat, chiar daca fereastra este redimensionata, deoarece pozitia lui se calculeaza automat.
+Textul ramane mereu centrat, chiar daca fereastra este redimensionata, deoarece pozitia lui se calculeaza automat.
 
 Proiectul poate fi compilat in doua moduri:
 
